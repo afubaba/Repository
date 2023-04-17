@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8d37e1-734c-403e-aefc-3a47cbcc6e7c" name="变更" comment="idea">
-      <change beforePath="$PROJECT_DIR$/afreecatv.index.css" beforeDir="false" afterPath="$PROJECT_DIR$/afreecatv.index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -52,6 +52,8 @@
       <workItem from="1669383737739" duration="137000" />
       <workItem from="1669916985632" duration="77000" />
       <workItem from="1669917267796" duration="617000" />
+      <workItem from="1681699116427" duration="25000" />
+      <workItem from="1681699211975" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1669309219781</created>
